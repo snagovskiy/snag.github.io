@@ -2,7 +2,7 @@
 layout: post 
 title: Дорога в ад 
 subtitle: или как я чуть не лишился пятой точки 
-cover-img: https://instagram.fhrk1-1.fna.fbcdn.net/v/t51.2885-15/e35/212534700_1652915588240764_4279062348524705755_n.jpg?_nc_ht=instagram.fhrk1-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=zgp0_DSr1VUAX8-Sgx1&edm=ABmJApABAAAA&ccb=7-4&oh=1b6ef73c1c476aa25a1b8b7de3974076&oe=611AEDE7&_nc_sid=6136e7&ig_cache_key=MjYxMzUyNDAyODMxNDc0MzMyMA%3D%3D.2-ccb7-4
+cover-img: https://proxy.elfsightcdn.com/?url=https%3A%2F%2Fscontent-lax3-2.cdninstagram.com%2Fv%2Ft51.29350-15%2F212534700_1652915588240764_4279062348524705755_n.jpg%3F_nc_cat%3D111%26ccb%3D1-4%26_nc_sid%3D8ae9d6%26_nc_ohc%3D6f2Jwk1bqkAAX8fuJXx%26_nc_ht%3Dscontent-lax3-2.cdninstagram.com%26edm%3DAM6HXa8EAAAA%26oh%3D5b20b2715ca17205cbe09d4a949898cd%26oe%3D6117DC64 
 tags: [вело, Адрианополь , фото] 
 date: 2021-07-15 20:00 
 comments: true 
