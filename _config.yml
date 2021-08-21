@@ -20,7 +20,7 @@ h-css-font: "Raleway"
 css-font: "Merriweather"
 
 navbar-links:  
-  О бо мне: "aboutme"
+  Обо мне: "aboutme"
   Покатушки: "track"
   Instagram: "instagram"
   #Resources:
